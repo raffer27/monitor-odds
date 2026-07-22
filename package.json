@@ -1,0 +1,12 @@
+{
+  "name": "monitor-odds",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Busca odds via The Odds API a cada 4h e gera painel estático (GitHub Pages) com o melhor momento de retorno e aviso de chance baixa.",
+  "scripts": {
+    "buscar": "node scripts/buscar-odds.mjs",
+    "gerar": "node scripts/gerar-pagina.mjs",
+    "rodar": "npm run buscar && npm run gerar"
+  }
+}
