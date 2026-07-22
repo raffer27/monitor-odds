@@ -1,0 +1,59 @@
+[
+  {
+    "timestamp": "2026-07-22T12:41:16.144Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 7,
+    "topMomentos": [
+      {
+        "jogo": "Boca Juniors x O'Higgins",
+        "comeco": "2026-07-24T00:30:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "O'Higgins",
+        "odd": 16.5,
+        "chanceImplicita": 0.06060606060606061,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Boca Juniors x O'Higgins",
+        "comeco": "2026-07-24T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "O'Higgins",
+        "odd": 16.5,
+        "chanceImplicita": 0.06060606060606061,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Boca Juniors x O'Higgins",
+        "comeco": "2026-07-24T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "O'Higgins",
+        "odd": 16.5,
+        "chanceImplicita": 0.06060606060606061,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Independiente Santa Fe x Caracas FC",
+        "comeco": "2026-07-24T00:30:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "Caracas FC",
+        "odd": 14.99,
+        "chanceImplicita": 0.066711140760507,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Independiente Santa Fe x Caracas FC",
+        "comeco": "2026-07-24T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Caracas FC",
+        "odd": 14.5,
+        "chanceImplicita": 0.06896551724137931,
+        "chanceBaixa": true
+      }
+    ]
+  }
+]
