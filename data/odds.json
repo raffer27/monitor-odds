@@ -112,5 +112,62 @@
         "chanceBaixa": true
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-23T09:15:27.875Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 6,
+    "topMomentos": [
+      {
+        "jogo": "Boca Juniors x O'Higgins",
+        "comeco": "2026-07-24T00:30:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "O'Higgins",
+        "odd": 17.01,
+        "chanceImplicita": 0.05878894767783656,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Boca Juniors x O'Higgins",
+        "comeco": "2026-07-24T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "O'Higgins",
+        "odd": 17,
+        "chanceImplicita": 0.058823529411764705,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Boca Juniors x O'Higgins",
+        "comeco": "2026-07-24T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "O'Higgins",
+        "odd": 17,
+        "chanceImplicita": 0.058823529411764705,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Santos x UCV FC",
+        "comeco": "2026-07-29T00:30:00Z",
+        "casa": "1xBet",
+        "mercado": "h2h",
+        "selecao": "UCV FC",
+        "odd": 14.5,
+        "chanceImplicita": 0.06896551724137931,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Boca Juniors x O'Higgins",
+        "comeco": "2026-07-24T00:30:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h",
+        "selecao": "O'Higgins",
+        "odd": 14.49,
+        "chanceImplicita": 0.06901311249137336,
+        "chanceBaixa": true
+      }
+    ]
   }
 ]
