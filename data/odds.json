@@ -340,5 +340,62 @@
         "chanceBaixa": true
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-24T17:15:06.321Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 8,
+    "topMomentos": [
+      {
+        "jogo": "Grêmio x Club Bolívar",
+        "comeco": "2026-07-30T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Club Bolívar",
+        "odd": 110,
+        "chanceImplicita": 0.00909090909090909,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Grêmio x Club Bolívar",
+        "comeco": "2026-07-30T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Grêmio",
+        "odd": 110,
+        "chanceImplicita": 0.00909090909090909,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Grêmio x Club Bolívar",
+        "comeco": "2026-07-30T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Draw",
+        "odd": 110,
+        "chanceImplicita": 0.00909090909090909,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Grêmio x Club Bolívar",
+        "comeco": "2026-07-30T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Club Bolívar",
+        "odd": 110,
+        "chanceImplicita": 0.00909090909090909,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Grêmio x Club Bolívar",
+        "comeco": "2026-07-30T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Grêmio",
+        "odd": 110,
+        "chanceImplicita": 0.00909090909090909,
+        "chanceBaixa": true
+      }
+    ]
   }
 ]
