@@ -283,5 +283,62 @@
         "chanceBaixa": true
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-24T09:11:56.838Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 5,
+    "topMomentos": [
+      {
+        "jogo": "Santos x UCV FC",
+        "comeco": "2026-07-29T00:30:00Z",
+        "casa": "1xBet",
+        "mercado": "h2h",
+        "selecao": "UCV FC",
+        "odd": 15,
+        "chanceImplicita": 0.06666666666666667,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Santos x UCV FC",
+        "comeco": "2026-07-29T00:30:00Z",
+        "casa": "888sport",
+        "mercado": "h2h",
+        "selecao": "UCV FC",
+        "odd": 13,
+        "chanceImplicita": 0.07692307692307693,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Santos x UCV FC",
+        "comeco": "2026-07-29T00:30:00Z",
+        "casa": "William Hill",
+        "mercado": "h2h",
+        "selecao": "UCV FC",
+        "odd": 13,
+        "chanceImplicita": 0.07692307692307693,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Santos x UCV FC",
+        "comeco": "2026-07-29T00:30:00Z",
+        "casa": "Nordic Bet",
+        "mercado": "h2h",
+        "selecao": "UCV FC",
+        "odd": 12.5,
+        "chanceImplicita": 0.08,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Bragantino-SP x Sporting Cristal",
+        "comeco": "2026-07-30T00:30:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "Sporting Cristal",
+        "odd": 11.49,
+        "chanceImplicita": 0.08703220191470844,
+        "chanceBaixa": true
+      }
+    ]
   }
 ]
