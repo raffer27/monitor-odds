@@ -1081,5 +1081,62 @@
         "chanceBaixa": true
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-28T23:33:24.470Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 8,
+    "topMomentos": [
+      {
+        "jogo": "CA Tigre BA x Nacional de Montevideo",
+        "comeco": "2026-07-28T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "CA Tigre BA",
+        "odd": 310,
+        "chanceImplicita": 0.0032258064516129032,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "CA Tigre BA x Nacional de Montevideo",
+        "comeco": "2026-07-28T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "CA Tigre BA",
+        "odd": 300,
+        "chanceImplicita": 0.0033333333333333335,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "CA Tigre BA x Nacional de Montevideo",
+        "comeco": "2026-07-28T22:00:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "CA Tigre BA",
+        "odd": 294.12,
+        "chanceImplicita": 0.003399972800217598,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "CA Tigre BA x Nacional de Montevideo",
+        "comeco": "2026-07-28T22:00:00Z",
+        "casa": "Unibet (UK)",
+        "mercado": "h2h",
+        "selecao": "CA Tigre BA",
+        "odd": 176,
+        "chanceImplicita": 0.005681818181818182,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "CA Tigre BA x Nacional de Montevideo",
+        "comeco": "2026-07-28T22:00:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h",
+        "selecao": "CA Tigre BA",
+        "odd": 140.85,
+        "chanceImplicita": 0.007099751508697196,
+        "chanceBaixa": true
+      }
+    ]
   }
 ]
