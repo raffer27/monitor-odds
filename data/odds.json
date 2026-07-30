@@ -1309,5 +1309,62 @@
         "chanceBaixa": true
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-30T09:37:30.921Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 5,
+    "topMomentos": [
+      {
+        "jogo": "Grêmio x Club Bolívar",
+        "comeco": "2026-07-30T22:00:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "Club Bolívar",
+        "odd": 13.5,
+        "chanceImplicita": 0.07407407407407407,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Santos x Macará",
+        "comeco": "2026-08-12T20:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Macará",
+        "odd": 13.5,
+        "chanceImplicita": 0.07407407407407407,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Santos x Macará",
+        "comeco": "2026-08-12T20:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Macará",
+        "odd": 13.5,
+        "chanceImplicita": 0.07407407407407407,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Grêmio x Club Bolívar",
+        "comeco": "2026-07-30T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Club Bolívar",
+        "odd": 12.5,
+        "chanceImplicita": 0.08,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Grêmio x Club Bolívar",
+        "comeco": "2026-07-30T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Club Bolívar",
+        "odd": 12.5,
+        "chanceImplicita": 0.08,
+        "chanceBaixa": true
+      }
+    ]
   }
 ]
