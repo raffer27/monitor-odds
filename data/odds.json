@@ -1480,5 +1480,62 @@
         "chanceBaixa": true
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-31T10:05:32.875Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 5,
+    "topMomentos": [
+      {
+        "jogo": "Santos x Macará",
+        "comeco": "2026-08-12T20:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Macará",
+        "odd": 15.5,
+        "chanceImplicita": 0.06451612903225806,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Santos x Macará",
+        "comeco": "2026-08-12T20:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Macará",
+        "odd": 15.5,
+        "chanceImplicita": 0.06451612903225806,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Santos x Macará",
+        "comeco": "2026-08-12T20:00:00Z",
+        "casa": "1xBet",
+        "mercado": "h2h",
+        "selecao": "Macará",
+        "odd": 12.3,
+        "chanceImplicita": 0.08130081300813008,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Santos x Macará",
+        "comeco": "2026-08-12T20:00:00Z",
+        "casa": "Codere (IT)",
+        "mercado": "h2h",
+        "selecao": "Macará",
+        "odd": 11,
+        "chanceImplicita": 0.09090909090909091,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Santos x Macará",
+        "comeco": "2026-08-12T20:00:00Z",
+        "casa": "Coolbet",
+        "mercado": "h2h",
+        "selecao": "Macará",
+        "odd": 11,
+        "chanceImplicita": 0.09090909090909091,
+        "chanceBaixa": true
+      }
+    ]
   }
 ]
