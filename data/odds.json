@@ -2677,5 +2677,62 @@
         "chanceBaixa": true
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-07T10:38:34.931Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 8,
+    "topMomentos": [
+      {
+        "jogo": "Boca Juniors x Recoleta FC",
+        "comeco": "2026-08-11T22:00:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "Recoleta FC",
+        "odd": 27.03,
+        "chanceImplicita": 0.03699593044765076,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Boca Juniors x Recoleta FC",
+        "comeco": "2026-08-11T22:00:00Z",
+        "casa": "Nordic Bet",
+        "mercado": "h2h",
+        "selecao": "Recoleta FC",
+        "odd": 12.5,
+        "chanceImplicita": 0.08,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Boca Juniors x Recoleta FC",
+        "comeco": "2026-08-11T22:00:00Z",
+        "casa": "1xBet",
+        "mercado": "h2h",
+        "selecao": "Recoleta FC",
+        "odd": 11.8,
+        "chanceImplicita": 0.0847457627118644,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Boca Juniors x Recoleta FC",
+        "comeco": "2026-08-11T22:00:00Z",
+        "casa": "Coolbet",
+        "mercado": "h2h",
+        "selecao": "Recoleta FC",
+        "odd": 11.7,
+        "chanceImplicita": 0.08547008547008547,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Boca Juniors x Recoleta FC",
+        "comeco": "2026-08-11T22:00:00Z",
+        "casa": "Casumo",
+        "mercado": "h2h",
+        "selecao": "Recoleta FC",
+        "odd": 11.5,
+        "chanceImplicita": 0.08695652173913043,
+        "chanceBaixa": true
+      }
+    ]
   }
 ]
