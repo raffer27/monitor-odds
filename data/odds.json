@@ -2905,5 +2905,62 @@
         "chanceBaixa": true
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-08T04:18:12.933Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 8,
+    "topMomentos": [
+      {
+        "jogo": "Santos x Macará",
+        "comeco": "2026-08-13T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Draw",
+        "odd": 950,
+        "chanceImplicita": 0.0010526315789473684,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Santos x Macará",
+        "comeco": "2026-08-13T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Draw",
+        "odd": 950,
+        "chanceImplicita": 0.0010526315789473684,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Santos x Macará",
+        "comeco": "2026-08-13T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Macará",
+        "odd": 34,
+        "chanceImplicita": 0.029411764705882353,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Santos x Macará",
+        "comeco": "2026-08-13T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Macará",
+        "odd": 34,
+        "chanceImplicita": 0.029411764705882353,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Boca Juniors x Recoleta FC",
+        "comeco": "2026-08-11T22:00:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "Recoleta FC",
+        "odd": 32.05,
+        "chanceImplicita": 0.031201248049921998,
+        "chanceBaixa": true
+      }
+    ]
   }
 ]
