@@ -3988,5 +3988,62 @@
         "chanceBaixa": true
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-11T13:06:17.245Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 8,
+    "topMomentos": [
+      {
+        "jogo": "Independiente Santa Fe x River Plate",
+        "comeco": "2026-08-13T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "River Plate",
+        "odd": 26,
+        "chanceImplicita": 0.038461538461538464,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Independiente Santa Fe x River Plate",
+        "comeco": "2026-08-13T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "River Plate",
+        "odd": 26,
+        "chanceImplicita": 0.038461538461538464,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Boca Juniors x Recoleta FC",
+        "comeco": "2026-08-11T22:00:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "Recoleta FC",
+        "odd": 16.5,
+        "chanceImplicita": 0.06060606060606061,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Boca Juniors x Recoleta FC",
+        "comeco": "2026-08-11T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Recoleta FC",
+        "odd": 16.5,
+        "chanceImplicita": 0.06060606060606061,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Boca Juniors x Recoleta FC",
+        "comeco": "2026-08-11T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Recoleta FC",
+        "odd": 16.5,
+        "chanceImplicita": 0.06060606060606061,
+        "chanceBaixa": true
+      }
+    ]
   }
 ]
