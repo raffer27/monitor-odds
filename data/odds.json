@@ -3817,5 +3817,62 @@
         "chanceBaixa": true
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-11T01:46:25.292Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 8,
+    "topMomentos": [
+      {
+        "jogo": "Vasco da Gama x Olimpia Asunción",
+        "comeco": "2026-08-13T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Draw",
+        "odd": 950,
+        "chanceImplicita": 0.0010526315789473684,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Vasco da Gama x Olimpia Asunción",
+        "comeco": "2026-08-13T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Draw",
+        "odd": 950,
+        "chanceImplicita": 0.0010526315789473684,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Boca Juniors x Recoleta FC",
+        "comeco": "2026-08-11T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Recoleta FC",
+        "odd": 22,
+        "chanceImplicita": 0.045454545454545456,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Boca Juniors x Recoleta FC",
+        "comeco": "2026-08-11T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Recoleta FC",
+        "odd": 22,
+        "chanceImplicita": 0.045454545454545456,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Boca Juniors x Recoleta FC",
+        "comeco": "2026-08-11T22:00:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "Recoleta FC",
+        "odd": 21.01,
+        "chanceImplicita": 0.047596382674916705,
+        "chanceBaixa": true
+      }
+    ]
   }
 ]
