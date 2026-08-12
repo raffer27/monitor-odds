@@ -4330,5 +4330,62 @@
         "chanceBaixa": true
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-12T13:09:14.568Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 8,
+    "topMomentos": [
+      {
+        "jogo": "Sao Paulo x Club Bolívar",
+        "comeco": "2026-08-19T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Club Bolívar",
+        "odd": 10.5,
+        "chanceImplicita": 0.09523809523809523,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Sao Paulo x Club Bolívar",
+        "comeco": "2026-08-19T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Club Bolívar",
+        "odd": 10.5,
+        "chanceImplicita": 0.09523809523809523,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Sao Paulo x Club Bolívar",
+        "comeco": "2026-08-19T00:30:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "Club Bolívar",
+        "odd": 10,
+        "chanceImplicita": 0.1,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Recoleta FC x Boca Juniors",
+        "comeco": "2026-08-18T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Recoleta FC",
+        "odd": 9.6,
+        "chanceImplicita": 0.10416666666666667,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Recoleta FC x Boca Juniors",
+        "comeco": "2026-08-18T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Recoleta FC",
+        "odd": 9.6,
+        "chanceImplicita": 0.10416666666666667,
+        "chanceBaixa": true
+      }
+    ]
   }
 ]
