@@ -4501,5 +4501,62 @@
         "chanceBaixa": true
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-13T02:00:08.062Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 8,
+    "topMomentos": [
+      {
+        "jogo": "Clube Atlético Mineiro x Bragantino-SP",
+        "comeco": "2026-08-19T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Draw",
+        "odd": 950,
+        "chanceImplicita": 0.0010526315789473684,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Clube Atlético Mineiro x Bragantino-SP",
+        "comeco": "2026-08-19T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Draw",
+        "odd": 950,
+        "chanceImplicita": 0.0010526315789473684,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Montevideo City Torque x CA Tigre BA",
+        "comeco": "2026-08-20T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Draw",
+        "odd": 950,
+        "chanceImplicita": 0.0010526315789473684,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Montevideo City Torque x CA Tigre BA",
+        "comeco": "2026-08-20T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Draw",
+        "odd": 950,
+        "chanceImplicita": 0.0010526315789473684,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Santos x Macará",
+        "comeco": "2026-08-13T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Macará",
+        "odd": 9.8,
+        "chanceImplicita": 0.1020408163265306,
+        "chanceBaixa": true
+      }
+    ]
   }
 ]
