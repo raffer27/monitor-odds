@@ -4729,5 +4729,62 @@
         "chanceBaixa": true
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-13T16:55:59.432Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 8,
+    "topMomentos": [
+      {
+        "jogo": "Santos x Macará",
+        "comeco": "2026-08-13T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Macará",
+        "odd": 11,
+        "chanceImplicita": 0.09090909090909091,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Santos x Macará",
+        "comeco": "2026-08-13T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Macará",
+        "odd": 11,
+        "chanceImplicita": 0.09090909090909091,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Santos x Macará",
+        "comeco": "2026-08-13T22:00:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "Macará",
+        "odd": 11,
+        "chanceImplicita": 0.09090909090909091,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Sao Paulo x Club Bolívar",
+        "comeco": "2026-08-19T00:30:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "Club Bolívar",
+        "odd": 10.5,
+        "chanceImplicita": 0.09523809523809523,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Sao Paulo x Club Bolívar",
+        "comeco": "2026-08-19T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Club Bolívar",
+        "odd": 10.5,
+        "chanceImplicita": 0.09523809523809523,
+        "chanceBaixa": true
+      }
+    ]
   }
 ]
