@@ -5128,5 +5128,62 @@
         "chanceBaixa": true
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-14T20:31:27.524Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 8,
+    "topMomentos": [
+      {
+        "jogo": "Recoleta FC x Boca Juniors",
+        "comeco": "2026-08-18T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Draw",
+        "odd": 950,
+        "chanceImplicita": 0.0010526315789473684,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Recoleta FC x Boca Juniors",
+        "comeco": "2026-08-18T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Draw",
+        "odd": 950,
+        "chanceImplicita": 0.0010526315789473684,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Botafogo x Club Cienciano",
+        "comeco": "2026-08-21T00:30:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "Club Cienciano",
+        "odd": 140.85,
+        "chanceImplicita": 0.007099751508697196,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Recoleta FC x Boca Juniors",
+        "comeco": "2026-08-18T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Recoleta FC",
+        "odd": 95,
+        "chanceImplicita": 0.010526315789473684,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Recoleta FC x Boca Juniors",
+        "comeco": "2026-08-18T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Recoleta FC",
+        "odd": 95,
+        "chanceImplicita": 0.010526315789473684,
+        "chanceBaixa": true
+      }
+    ]
   }
 ]
