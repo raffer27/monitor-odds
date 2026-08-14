@@ -4843,5 +4843,62 @@
         "chanceBaixa": true
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-14T01:58:25.426Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 8,
+    "topMomentos": [
+      {
+        "jogo": "Club Cienciano x Botafogo",
+        "comeco": "2026-08-14T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Botafogo",
+        "odd": 990,
+        "chanceImplicita": 0.00101010101010101,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Club Cienciano x Botafogo",
+        "comeco": "2026-08-14T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Botafogo",
+        "odd": 990,
+        "chanceImplicita": 0.00101010101010101,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Recoleta FC x Boca Juniors",
+        "comeco": "2026-08-18T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Draw",
+        "odd": 950,
+        "chanceImplicita": 0.0010526315789473684,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Recoleta FC x Boca Juniors",
+        "comeco": "2026-08-18T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Draw",
+        "odd": 950,
+        "chanceImplicita": 0.0010526315789473684,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Club Cienciano x Botafogo",
+        "comeco": "2026-08-14T00:30:00Z",
+        "casa": "Coral",
+        "mercado": "h2h",
+        "selecao": "Botafogo",
+        "odd": 751,
+        "chanceImplicita": 0.0013315579227696406,
+        "chanceBaixa": true
+      }
+    ]
   }
 ]
