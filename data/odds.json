@@ -5413,5 +5413,62 @@
         "chanceBaixa": true
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-15T16:23:59.926Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 8,
+    "topMomentos": [
+      {
+        "jogo": "Macará x Santos",
+        "comeco": "2026-08-20T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Macará",
+        "odd": 75,
+        "chanceImplicita": 0.013333333333333334,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Macará x Santos",
+        "comeco": "2026-08-20T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Macará",
+        "odd": 75,
+        "chanceImplicita": 0.013333333333333334,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Montevideo City Torque x CA Tigre BA",
+        "comeco": "2026-08-20T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Montevideo City Torque",
+        "odd": 34,
+        "chanceImplicita": 0.029411764705882353,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Montevideo City Torque x CA Tigre BA",
+        "comeco": "2026-08-20T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Montevideo City Torque",
+        "odd": 34,
+        "chanceImplicita": 0.029411764705882353,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Montevideo City Torque x CA Tigre BA",
+        "comeco": "2026-08-20T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "CA Tigre BA",
+        "odd": 32,
+        "chanceImplicita": 0.03125,
+        "chanceBaixa": true
+      }
+    ]
   }
 ]
