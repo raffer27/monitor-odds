@@ -5641,5 +5641,62 @@
         "chanceBaixa": true
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-16T08:29:40.510Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 8,
+    "topMomentos": [
+      {
+        "jogo": "Botafogo x Club Cienciano",
+        "comeco": "2026-08-21T00:30:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "Club Cienciano",
+        "odd": 27.03,
+        "chanceImplicita": 0.03699593044765076,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Botafogo x Club Cienciano",
+        "comeco": "2026-08-21T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Club Cienciano",
+        "odd": 27,
+        "chanceImplicita": 0.037037037037037035,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Botafogo x Club Cienciano",
+        "comeco": "2026-08-21T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Club Cienciano",
+        "odd": 27,
+        "chanceImplicita": 0.037037037037037035,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Botafogo x Club Cienciano",
+        "comeco": "2026-08-21T00:30:00Z",
+        "casa": "Nordic Bet",
+        "mercado": "h2h",
+        "selecao": "Club Cienciano",
+        "odd": 22,
+        "chanceImplicita": 0.045454545454545456,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Olimpia Asunción x Vasco da Gama",
+        "comeco": "2026-08-20T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Vasco da Gama",
+        "odd": 21,
+        "chanceImplicita": 0.047619047619047616,
+        "chanceBaixa": true
+      }
+    ]
   }
 ]
