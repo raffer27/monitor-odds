@@ -5926,5 +5926,62 @@
         "chanceBaixa": true
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-17T04:41:29.095Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 8,
+    "topMomentos": [
+      {
+        "jogo": "Botafogo x Club Cienciano",
+        "comeco": "2026-08-21T00:30:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "Club Cienciano",
+        "odd": 32.05,
+        "chanceImplicita": 0.031201248049921998,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Botafogo x Club Cienciano",
+        "comeco": "2026-08-21T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Club Cienciano",
+        "odd": 32,
+        "chanceImplicita": 0.03125,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Botafogo x Club Cienciano",
+        "comeco": "2026-08-21T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Club Cienciano",
+        "odd": 32,
+        "chanceImplicita": 0.03125,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Botafogo x Club Cienciano",
+        "comeco": "2026-08-21T00:30:00Z",
+        "casa": "Nordic Bet",
+        "mercado": "h2h",
+        "selecao": "Club Cienciano",
+        "odd": 22,
+        "chanceImplicita": 0.045454545454545456,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Botafogo x Club Cienciano",
+        "comeco": "2026-08-21T00:30:00Z",
+        "casa": "1xBet",
+        "mercado": "h2h",
+        "selecao": "Club Cienciano",
+        "odd": 19.5,
+        "chanceImplicita": 0.05128205128205128,
+        "chanceBaixa": true
+      }
+    ]
   }
 ]
