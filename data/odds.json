@@ -6553,5 +6553,62 @@
         "chanceBaixa": true
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-19T01:15:17.130Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 7,
+    "topMomentos": [
+      {
+        "jogo": "Sao Paulo x Club Bolívar",
+        "comeco": "2026-08-19T00:30:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "Club Bolívar",
+        "odd": 32.05,
+        "chanceImplicita": 0.031201248049921998,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Sao Paulo x Club Bolívar",
+        "comeco": "2026-08-19T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Club Bolívar",
+        "odd": 30,
+        "chanceImplicita": 0.03333333333333333,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Sao Paulo x Club Bolívar",
+        "comeco": "2026-08-19T00:30:00Z",
+        "casa": "Paddy Power",
+        "mercado": "h2h",
+        "selecao": "Club Bolívar",
+        "odd": 29,
+        "chanceImplicita": 0.034482758620689655,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Sao Paulo x Club Bolívar",
+        "comeco": "2026-08-19T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Club Bolívar",
+        "odd": 29,
+        "chanceImplicita": 0.034482758620689655,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Sao Paulo x Club Bolívar",
+        "comeco": "2026-08-19T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h",
+        "selecao": "Club Bolívar",
+        "odd": 28,
+        "chanceImplicita": 0.03571428571428571,
+        "chanceBaixa": true
+      }
+    ]
   }
 ]
