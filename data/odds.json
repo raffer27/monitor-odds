@@ -7294,5 +7294,62 @@
         "chanceBaixa": true
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-21T04:38:19.181Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 1,
+    "topMomentos": [
+      {
+        "jogo": "Boca Juniors x Sao Paulo",
+        "comeco": "2026-09-09T20:00:00Z",
+        "casa": "Paddy Power",
+        "mercado": "h2h",
+        "selecao": "Sao Paulo",
+        "odd": 4.2,
+        "chanceImplicita": 0.23809523809523808,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Boca Juniors x Sao Paulo",
+        "comeco": "2026-09-09T20:00:00Z",
+        "casa": "1xBet",
+        "mercado": "h2h",
+        "selecao": "Sao Paulo",
+        "odd": 4.1,
+        "chanceImplicita": 0.24390243902439027,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Boca Juniors x Sao Paulo",
+        "comeco": "2026-09-09T20:00:00Z",
+        "casa": "Coolbet",
+        "mercado": "h2h",
+        "selecao": "Sao Paulo",
+        "odd": 4.1,
+        "chanceImplicita": 0.24390243902439027,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Boca Juniors x Sao Paulo",
+        "comeco": "2026-09-09T20:00:00Z",
+        "casa": "Codere (IT)",
+        "mercado": "h2h",
+        "selecao": "Sao Paulo",
+        "odd": 4,
+        "chanceImplicita": 0.25,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Boca Juniors x Sao Paulo",
+        "comeco": "2026-09-09T20:00:00Z",
+        "casa": "LeoVegas",
+        "mercado": "h2h",
+        "selecao": "Sao Paulo",
+        "odd": 3.9,
+        "chanceImplicita": 0.25641025641025644,
+        "chanceBaixa": true
+      }
+    ]
   }
 ]
