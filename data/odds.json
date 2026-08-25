@@ -8662,5 +8662,62 @@
         "chanceBaixa": true
       }
     ]
+  },
+  {
+    "timestamp": "2026-08-25T04:38:52.633Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 4,
+    "topMomentos": [
+      {
+        "jogo": "River Plate x Independiente Santa Fe",
+        "comeco": "2026-08-27T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Independiente Santa Fe",
+        "odd": 11,
+        "chanceImplicita": 0.09090909090909091,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "River Plate x Independiente Santa Fe",
+        "comeco": "2026-08-27T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Independiente Santa Fe",
+        "odd": 11,
+        "chanceImplicita": 0.09090909090909091,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "River Plate x Independiente Santa Fe",
+        "comeco": "2026-08-27T00:30:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "Independiente Santa Fe",
+        "odd": 10.5,
+        "chanceImplicita": 0.09523809523809523,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "River Plate x Independiente Santa Fe",
+        "comeco": "2026-08-27T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h",
+        "selecao": "Independiente Santa Fe",
+        "odd": 8.8,
+        "chanceImplicita": 0.11363636363636363,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "River Plate x Independiente Santa Fe",
+        "comeco": "2026-08-27T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h",
+        "selecao": "Independiente Santa Fe",
+        "odd": 8.8,
+        "chanceImplicita": 0.11363636363636363,
+        "chanceBaixa": true
+      }
+    ]
   }
 ]
