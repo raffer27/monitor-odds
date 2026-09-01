@@ -8890,5 +8890,62 @@
         "chanceBaixa": true
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-01T16:10:13.196Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 4,
+    "topMomentos": [
+      {
+        "jogo": "Independiente Santa Fe x Vasco da Gama",
+        "comeco": "2026-09-08T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Vasco da Gama",
+        "odd": 24,
+        "chanceImplicita": 0.041666666666666664,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Independiente Santa Fe x Vasco da Gama",
+        "comeco": "2026-09-08T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Vasco da Gama",
+        "odd": 24,
+        "chanceImplicita": 0.041666666666666664,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Santos x Clube Atlético Mineiro",
+        "comeco": "2026-09-09T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Draw",
+        "odd": 19.5,
+        "chanceImplicita": 0.05128205128205128,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Santos x Clube Atlético Mineiro",
+        "comeco": "2026-09-09T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Draw",
+        "odd": 19.5,
+        "chanceImplicita": 0.05128205128205128,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Santos x Clube Atlético Mineiro",
+        "comeco": "2026-09-09T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Santos",
+        "odd": 14.5,
+        "chanceImplicita": 0.06896551724137931,
+        "chanceBaixa": true
+      }
+    ]
   }
 ]
