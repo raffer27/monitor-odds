@@ -9232,5 +9232,62 @@
         "chanceBaixa": true
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-03T03:17:54.417Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 4,
+    "topMomentos": [
+      {
+        "jogo": "Club Cienciano x Montevideo City Torque",
+        "comeco": "2026-09-11T00:30:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "Montevideo City Torque",
+        "odd": 8.6,
+        "chanceImplicita": 0.11627906976744186,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Boca Juniors x Sao Paulo",
+        "comeco": "2026-09-09T00:30:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "Sao Paulo",
+        "odd": 6.8,
+        "chanceImplicita": 0.14705882352941177,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Club Cienciano x Montevideo City Torque",
+        "comeco": "2026-09-11T00:30:00Z",
+        "casa": "Coolbet",
+        "mercado": "h2h",
+        "selecao": "Montevideo City Torque",
+        "odd": 6.5,
+        "chanceImplicita": 0.15384615384615385,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Club Cienciano x Montevideo City Torque",
+        "comeco": "2026-09-11T00:30:00Z",
+        "casa": "Pinnacle",
+        "mercado": "h2h",
+        "selecao": "Montevideo City Torque",
+        "odd": 6.44,
+        "chanceImplicita": 0.15527950310559005,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Club Cienciano x Montevideo City Torque",
+        "comeco": "2026-09-11T00:30:00Z",
+        "casa": "Nordic Bet",
+        "mercado": "h2h",
+        "selecao": "Montevideo City Torque",
+        "odd": 5.9,
+        "chanceImplicita": 0.1694915254237288,
+        "chanceBaixa": true
+      }
+    ]
   }
 ]
