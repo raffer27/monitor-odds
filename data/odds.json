@@ -1,62 +1,5 @@
 [
   {
-    "timestamp": "2026-07-25T11:51:40.176Z",
-    "sportKey": "soccer_conmebol_copa_sudamericana",
-    "jogos": 8,
-    "topMomentos": [
-      {
-        "jogo": "Grêmio x Club Bolívar",
-        "comeco": "2026-07-30T22:00:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Club Bolívar",
-        "odd": 110,
-        "chanceImplicita": 0.00909090909090909,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Grêmio x Club Bolívar",
-        "comeco": "2026-07-30T22:00:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Grêmio",
-        "odd": 110,
-        "chanceImplicita": 0.00909090909090909,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Grêmio x Club Bolívar",
-        "comeco": "2026-07-30T22:00:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Draw",
-        "odd": 110,
-        "chanceImplicita": 0.00909090909090909,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Grêmio x Club Bolívar",
-        "comeco": "2026-07-30T22:00:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Club Bolívar",
-        "odd": 110,
-        "chanceImplicita": 0.00909090909090909,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Grêmio x Club Bolívar",
-        "comeco": "2026-07-30T22:00:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Grêmio",
-        "odd": 110,
-        "chanceImplicita": 0.00909090909090909,
-        "chanceBaixa": true
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-25T15:47:12.432Z",
     "sportKey": "soccer_conmebol_copa_sudamericana",
     "jogos": 8,
@@ -10255,6 +10198,63 @@
         "selecao": "Montevideo City Torque",
         "odd": 5.9,
         "chanceImplicita": 0.1694915254237288,
+        "chanceBaixa": true
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-08T22:24:19.591Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 4,
+    "topMomentos": [
+      {
+        "jogo": "Club Cienciano x Montevideo City Torque",
+        "comeco": "2026-09-11T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Montevideo City Torque",
+        "odd": 6.8,
+        "chanceImplicita": 0.14705882352941177,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Club Cienciano x Montevideo City Torque",
+        "comeco": "2026-09-11T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Montevideo City Torque",
+        "odd": 6.8,
+        "chanceImplicita": 0.14705882352941177,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Club Cienciano x Montevideo City Torque",
+        "comeco": "2026-09-11T00:30:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "Montevideo City Torque",
+        "odd": 6.8,
+        "chanceImplicita": 0.14705882352941177,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Club Cienciano x Montevideo City Torque",
+        "comeco": "2026-09-11T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h",
+        "selecao": "Montevideo City Torque",
+        "odd": 6.2,
+        "chanceImplicita": 0.16129032258064516,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Club Cienciano x Montevideo City Torque",
+        "comeco": "2026-09-11T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h",
+        "selecao": "Montevideo City Torque",
+        "odd": 6.2,
+        "chanceImplicita": 0.16129032258064516,
         "chanceBaixa": true
       }
     ]
