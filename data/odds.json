@@ -1,62 +1,5 @@
 [
   {
-    "timestamp": "2026-07-29T16:52:44.878Z",
-    "sportKey": "soccer_conmebol_copa_sudamericana",
-    "jogos": 6,
-    "topMomentos": [
-      {
-        "jogo": "Grêmio x Club Bolívar",
-        "comeco": "2026-07-30T22:00:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Club Bolívar",
-        "odd": 12.5,
-        "chanceImplicita": 0.08,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Grêmio x Club Bolívar",
-        "comeco": "2026-07-30T22:00:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Club Bolívar",
-        "odd": 12.5,
-        "chanceImplicita": 0.08,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Bragantino-SP x Sporting Cristal",
-        "comeco": "2026-07-30T00:30:00Z",
-        "casa": "Smarkets",
-        "mercado": "h2h_lay",
-        "selecao": "Sporting Cristal",
-        "odd": 12,
-        "chanceImplicita": 0.08333333333333333,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Bragantino-SP x Sporting Cristal",
-        "comeco": "2026-07-30T00:30:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Sporting Cristal",
-        "odd": 12,
-        "chanceImplicita": 0.08333333333333333,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Bragantino-SP x Sporting Cristal",
-        "comeco": "2026-07-30T00:30:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Sporting Cristal",
-        "odd": 12,
-        "chanceImplicita": 0.08333333333333333,
-        "chanceBaixa": true
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-29T23:38:07.075Z",
     "sportKey": "soccer_conmebol_copa_sudamericana",
     "jogos": 8,
@@ -10255,6 +10198,63 @@
         "selecao": "Independiente Santa Fe",
         "odd": 6.91,
         "chanceImplicita": 0.1447178002894356,
+        "chanceBaixa": true
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-11T15:59:30.170Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 4,
+    "topMomentos": [
+      {
+        "jogo": "Montevideo City Torque x Club Cienciano",
+        "comeco": "2026-09-18T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Club Cienciano",
+        "odd": 110,
+        "chanceImplicita": 0.00909090909090909,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Montevideo City Torque x Club Cienciano",
+        "comeco": "2026-09-18T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Club Cienciano",
+        "odd": 110,
+        "chanceImplicita": 0.00909090909090909,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Montevideo City Torque x Club Cienciano",
+        "comeco": "2026-09-18T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Draw",
+        "odd": 100,
+        "chanceImplicita": 0.01,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Montevideo City Torque x Club Cienciano",
+        "comeco": "2026-09-18T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Draw",
+        "odd": 100,
+        "chanceImplicita": 0.01,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Vasco da Gama x Independiente Santa Fe",
+        "comeco": "2026-09-15T22:00:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "Independiente Santa Fe",
+        "odd": 10,
+        "chanceImplicita": 0.1,
         "chanceBaixa": true
       }
     ]
