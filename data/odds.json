@@ -1,62 +1,5 @@
 [
   {
-    "timestamp": "2026-07-30T17:09:48.114Z",
-    "sportKey": "soccer_conmebol_copa_sudamericana",
-    "jogos": 8,
-    "topMomentos": [
-      {
-        "jogo": "Santos x Macará",
-        "comeco": "2026-08-12T20:00:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Macará",
-        "odd": 13.5,
-        "chanceImplicita": 0.07407407407407407,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Santos x Macará",
-        "comeco": "2026-08-12T20:00:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Macará",
-        "odd": 13.5,
-        "chanceImplicita": 0.07407407407407407,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Grêmio x Club Bolívar",
-        "comeco": "2026-07-30T22:00:00Z",
-        "casa": "Smarkets",
-        "mercado": "h2h_lay",
-        "selecao": "Club Bolívar",
-        "odd": 12,
-        "chanceImplicita": 0.08333333333333333,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Grêmio x Club Bolívar",
-        "comeco": "2026-07-30T22:00:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Club Bolívar",
-        "odd": 12,
-        "chanceImplicita": 0.08333333333333333,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Grêmio x Club Bolívar",
-        "comeco": "2026-07-30T22:00:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Club Bolívar",
-        "odd": 12,
-        "chanceImplicita": 0.08333333333333333,
-        "chanceBaixa": true
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-30T23:37:03.756Z",
     "sportKey": "soccer_conmebol_copa_sudamericana",
     "jogos": 8,
@@ -10255,6 +10198,63 @@
         "selecao": "Independiente Santa Fe",
         "odd": 7,
         "chanceImplicita": 0.14285714285714285,
+        "chanceBaixa": true
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-12T03:28:49.359Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 4,
+    "topMomentos": [
+      {
+        "jogo": "Vasco da Gama x Independiente Santa Fe",
+        "comeco": "2026-09-15T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Draw",
+        "odd": 950,
+        "chanceImplicita": 0.0010526315789473684,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Vasco da Gama x Independiente Santa Fe",
+        "comeco": "2026-09-15T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Draw",
+        "odd": 950,
+        "chanceImplicita": 0.0010526315789473684,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Vasco da Gama x Independiente Santa Fe",
+        "comeco": "2026-09-15T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Independiente Santa Fe",
+        "odd": 12,
+        "chanceImplicita": 0.08333333333333333,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Vasco da Gama x Independiente Santa Fe",
+        "comeco": "2026-09-15T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Independiente Santa Fe",
+        "odd": 12,
+        "chanceImplicita": 0.08333333333333333,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Vasco da Gama x Independiente Santa Fe",
+        "comeco": "2026-09-15T22:00:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "Independiente Santa Fe",
+        "odd": 10,
+        "chanceImplicita": 0.1,
         "chanceBaixa": true
       }
     ]
