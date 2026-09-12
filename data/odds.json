@@ -1,62 +1,5 @@
 [
   {
-    "timestamp": "2026-07-31T17:12:27.832Z",
-    "sportKey": "soccer_conmebol_copa_sudamericana",
-    "jogos": 8,
-    "topMomentos": [
-      {
-        "jogo": "Boca Juniors x Recoleta FC",
-        "comeco": "2026-08-12T20:00:00Z",
-        "casa": "Coolbet",
-        "mercado": "h2h",
-        "selecao": "Recoleta FC",
-        "odd": 18,
-        "chanceImplicita": 0.05555555555555555,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Boca Juniors x Recoleta FC",
-        "comeco": "2026-08-12T20:00:00Z",
-        "casa": "1xBet",
-        "mercado": "h2h",
-        "selecao": "Recoleta FC",
-        "odd": 18,
-        "chanceImplicita": 0.05555555555555555,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Santos x Macará",
-        "comeco": "2026-08-12T20:00:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Macará",
-        "odd": 16,
-        "chanceImplicita": 0.0625,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Santos x Macará",
-        "comeco": "2026-08-12T20:00:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Macará",
-        "odd": 16,
-        "chanceImplicita": 0.0625,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Boca Juniors x Recoleta FC",
-        "comeco": "2026-08-12T20:00:00Z",
-        "casa": "William Hill",
-        "mercado": "h2h",
-        "selecao": "Recoleta FC",
-        "odd": 15,
-        "chanceImplicita": 0.06666666666666667,
-        "chanceBaixa": true
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-31T23:37:59.555Z",
     "sportKey": "soccer_conmebol_copa_sudamericana",
     "jogos": 8,
@@ -10255,6 +10198,63 @@
         "selecao": "Independiente Santa Fe",
         "odd": 10,
         "chanceImplicita": 0.1,
+        "chanceBaixa": true
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-12T18:09:35.249Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 4,
+    "topMomentos": [
+      {
+        "jogo": "Vasco da Gama x Independiente Santa Fe",
+        "comeco": "2026-09-15T22:00:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "Independiente Santa Fe",
+        "odd": 10,
+        "chanceImplicita": 0.1,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Vasco da Gama x Independiente Santa Fe",
+        "comeco": "2026-09-15T22:00:00Z",
+        "casa": "1xBet",
+        "mercado": "h2h",
+        "selecao": "Independiente Santa Fe",
+        "odd": 7.45,
+        "chanceImplicita": 0.1342281879194631,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Montevideo City Torque x Club Cienciano",
+        "comeco": "2026-09-18T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Club Cienciano",
+        "odd": 7.2,
+        "chanceImplicita": 0.1388888888888889,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Montevideo City Torque x Club Cienciano",
+        "comeco": "2026-09-18T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Club Cienciano",
+        "odd": 7.2,
+        "chanceImplicita": 0.1388888888888889,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Montevideo City Torque x Club Cienciano",
+        "comeco": "2026-09-18T00:30:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "Club Cienciano",
+        "odd": 7.2,
+        "chanceImplicita": 0.1388888888888889,
         "chanceBaixa": true
       }
     ]
