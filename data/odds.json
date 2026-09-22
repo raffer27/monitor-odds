@@ -1,62 +1,5 @@
 [
   {
-    "timestamp": "2026-08-11T05:08:44.654Z",
-    "sportKey": "soccer_conmebol_copa_sudamericana",
-    "jogos": 8,
-    "topMomentos": [
-      {
-        "jogo": "Boca Juniors x Recoleta FC",
-        "comeco": "2026-08-11T22:00:00Z",
-        "casa": "Smarkets",
-        "mercado": "h2h_lay",
-        "selecao": "Recoleta FC",
-        "odd": 19.01,
-        "chanceImplicita": 0.052603892688058915,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Boca Juniors x Recoleta FC",
-        "comeco": "2026-08-11T22:00:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Recoleta FC",
-        "odd": 19,
-        "chanceImplicita": 0.05263157894736842,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Boca Juniors x Recoleta FC",
-        "comeco": "2026-08-11T22:00:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Recoleta FC",
-        "odd": 19,
-        "chanceImplicita": 0.05263157894736842,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Boca Juniors x Recoleta FC",
-        "comeco": "2026-08-11T22:00:00Z",
-        "casa": "Smarkets",
-        "mercado": "h2h",
-        "selecao": "Recoleta FC",
-        "odd": 16,
-        "chanceImplicita": 0.0625,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Boca Juniors x Recoleta FC",
-        "comeco": "2026-08-11T22:00:00Z",
-        "casa": "1xBet",
-        "mercado": "h2h",
-        "selecao": "Recoleta FC",
-        "odd": 15,
-        "chanceImplicita": 0.06666666666666667,
-        "chanceBaixa": true
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-11T08:56:48.413Z",
     "sportKey": "soccer_conmebol_copa_sudamericana",
     "jogos": 8,
@@ -10153,6 +10096,63 @@
   },
   {
     "timestamp": "2026-09-21T23:02:18.905Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 2,
+    "topMomentos": [
+      {
+        "jogo": "Clube Atlético Mineiro x Montevideo City Torque",
+        "comeco": "2026-10-14T22:00:00Z",
+        "casa": "Coolbet",
+        "mercado": "h2h",
+        "selecao": "Montevideo City Torque",
+        "odd": 9,
+        "chanceImplicita": 0.1111111111111111,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Clube Atlético Mineiro x Montevideo City Torque",
+        "comeco": "2026-10-14T22:00:00Z",
+        "casa": "1xBet",
+        "mercado": "h2h",
+        "selecao": "Montevideo City Torque",
+        "odd": 8.1,
+        "chanceImplicita": 0.1234567901234568,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Clube Atlético Mineiro x Montevideo City Torque",
+        "comeco": "2026-10-14T22:00:00Z",
+        "casa": "Unibet (NL)",
+        "mercado": "h2h",
+        "selecao": "Montevideo City Torque",
+        "odd": 8,
+        "chanceImplicita": 0.125,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Clube Atlético Mineiro x Montevideo City Torque",
+        "comeco": "2026-10-14T22:00:00Z",
+        "casa": "Casumo",
+        "mercado": "h2h",
+        "selecao": "Montevideo City Torque",
+        "odd": 8,
+        "chanceImplicita": 0.125,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Clube Atlético Mineiro x Montevideo City Torque",
+        "comeco": "2026-10-14T22:00:00Z",
+        "casa": "Nordic Bet",
+        "mercado": "h2h",
+        "selecao": "Montevideo City Torque",
+        "odd": 7.8,
+        "chanceImplicita": 0.12820512820512822,
+        "chanceBaixa": true
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-22T03:40:31.983Z",
     "sportKey": "soccer_conmebol_copa_sudamericana",
     "jogos": 2,
     "topMomentos": [
