@@ -1,62 +1,5 @@
 [
   {
-    "timestamp": "2026-08-13T20:42:25.485Z",
-    "sportKey": "soccer_conmebol_copa_sudamericana",
-    "jogos": 8,
-    "topMomentos": [
-      {
-        "jogo": "Santos x Macará",
-        "comeco": "2026-08-13T22:00:00Z",
-        "casa": "Smarkets",
-        "mercado": "h2h_lay",
-        "selecao": "Macará",
-        "odd": 11,
-        "chanceImplicita": 0.09090909090909091,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Santos x Macará",
-        "comeco": "2026-08-13T22:00:00Z",
-        "casa": "1xBet",
-        "mercado": "h2h",
-        "selecao": "Macará",
-        "odd": 10.8,
-        "chanceImplicita": 0.09259259259259259,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Santos x Macará",
-        "comeco": "2026-08-13T22:00:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Macará",
-        "odd": 10.5,
-        "chanceImplicita": 0.09523809523809523,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Santos x Macará",
-        "comeco": "2026-08-13T22:00:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Macará",
-        "odd": 10.5,
-        "chanceImplicita": 0.09523809523809523,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Sao Paulo x Club Bolívar",
-        "comeco": "2026-08-19T00:30:00Z",
-        "casa": "Smarkets",
-        "mercado": "h2h_lay",
-        "selecao": "Club Bolívar",
-        "odd": 10.5,
-        "chanceImplicita": 0.09523809523809523,
-        "chanceBaixa": true
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-14T01:58:25.426Z",
     "sportKey": "soccer_conmebol_copa_sudamericana",
     "jogos": 8,
@@ -10202,6 +10145,63 @@
         "casa": "Nordic Bet",
         "mercado": "h2h",
         "selecao": "Montevideo City Torque",
+        "odd": 7.8,
+        "chanceImplicita": 0.12820512820512822,
+        "chanceBaixa": true
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-26T03:53:59.118Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 2,
+    "topMomentos": [
+      {
+        "jogo": "Clube Atlético Mineiro x Montevideo City Torque",
+        "comeco": "2026-10-14T22:00:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "Montevideo City Torque",
+        "odd": 14.01,
+        "chanceImplicita": 0.07137758743754462,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Clube Atlético Mineiro x Montevideo City Torque",
+        "comeco": "2026-10-14T22:00:00Z",
+        "casa": "Coolbet",
+        "mercado": "h2h",
+        "selecao": "Montevideo City Torque",
+        "odd": 9,
+        "chanceImplicita": 0.1111111111111111,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Clube Atlético Mineiro x Montevideo City Torque",
+        "comeco": "2026-10-14T22:00:00Z",
+        "casa": "1xBet",
+        "mercado": "h2h",
+        "selecao": "Montevideo City Torque",
+        "odd": 8.1,
+        "chanceImplicita": 0.1234567901234568,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Clube Atlético Mineiro x Montevideo City Torque",
+        "comeco": "2026-10-14T22:00:00Z",
+        "casa": "Unibet (NL)",
+        "mercado": "h2h",
+        "selecao": "Montevideo City Torque",
+        "odd": 8,
+        "chanceImplicita": 0.125,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Boca Juniors x Vasco da Gama",
+        "comeco": "2026-10-14T00:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Vasco da Gama",
         "odd": 7.8,
         "chanceImplicita": 0.12820512820512822,
         "chanceBaixa": true
