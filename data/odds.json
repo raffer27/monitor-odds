@@ -1,62 +1,5 @@
 [
   {
-    "timestamp": "2026-08-24T01:18:05.817Z",
-    "sportKey": "soccer_conmebol_copa_sudamericana",
-    "jogos": 4,
-    "topMomentos": [
-      {
-        "jogo": "River Plate x Independiente Santa Fe",
-        "comeco": "2026-08-27T00:30:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Independiente Santa Fe",
-        "odd": 10.5,
-        "chanceImplicita": 0.09523809523809523,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "River Plate x Independiente Santa Fe",
-        "comeco": "2026-08-27T00:30:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Independiente Santa Fe",
-        "odd": 10.5,
-        "chanceImplicita": 0.09523809523809523,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "River Plate x Independiente Santa Fe",
-        "comeco": "2026-08-27T00:30:00Z",
-        "casa": "Smarkets",
-        "mercado": "h2h_lay",
-        "selecao": "Independiente Santa Fe",
-        "odd": 10,
-        "chanceImplicita": 0.1,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "River Plate x Independiente Santa Fe",
-        "comeco": "2026-08-27T00:30:00Z",
-        "casa": "1xBet",
-        "mercado": "h2h",
-        "selecao": "Independiente Santa Fe",
-        "odd": 7.95,
-        "chanceImplicita": 0.12578616352201258,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "River Plate x Independiente Santa Fe",
-        "comeco": "2026-08-27T00:30:00Z",
-        "casa": "Nordic Bet",
-        "mercado": "h2h",
-        "selecao": "Independiente Santa Fe",
-        "odd": 7.8,
-        "chanceImplicita": 0.12820512820512822,
-        "chanceBaixa": true
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-24T04:44:42.010Z",
     "sportKey": "soccer_conmebol_copa_sudamericana",
     "jogos": 4,
@@ -10204,6 +10147,63 @@
         "selecao": "Montevideo City Torque",
         "odd": 10.5,
         "chanceImplicita": 0.09523809523809523,
+        "chanceBaixa": true
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-14T22:59:49.367Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 3,
+    "topMomentos": [
+      {
+        "jogo": "Clube Atlético Mineiro x Montevideo City Torque",
+        "comeco": "2026-10-14T22:00:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "Montevideo City Torque",
+        "odd": 500,
+        "chanceImplicita": 0.002,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Clube Atlético Mineiro x Montevideo City Torque",
+        "comeco": "2026-10-14T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Montevideo City Torque",
+        "odd": 410,
+        "chanceImplicita": 0.0024390243902439024,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Clube Atlético Mineiro x Montevideo City Torque",
+        "comeco": "2026-10-14T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Montevideo City Torque",
+        "odd": 410,
+        "chanceImplicita": 0.0024390243902439024,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Clube Atlético Mineiro x Montevideo City Torque",
+        "comeco": "2026-10-14T22:00:00Z",
+        "casa": "Paddy Power",
+        "mercado": "h2h",
+        "selecao": "Montevideo City Torque",
+        "odd": 276,
+        "chanceImplicita": 0.0036231884057971015,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Clube Atlético Mineiro x Montevideo City Torque",
+        "comeco": "2026-10-14T22:00:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h",
+        "selecao": "Montevideo City Torque",
+        "odd": 270.27,
+        "chanceImplicita": 0.0037000037000037003,
         "chanceBaixa": true
       }
     ]
