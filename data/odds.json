@@ -1,62 +1,5 @@
 [
   {
-    "timestamp": "2026-09-04T15:52:49.627Z",
-    "sportKey": "soccer_conmebol_copa_sudamericana",
-    "jogos": 4,
-    "topMomentos": [
-      {
-        "jogo": "Santos x Clube Atlético Mineiro",
-        "comeco": "2026-09-09T22:00:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Draw",
-        "odd": 19.5,
-        "chanceImplicita": 0.05128205128205128,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Santos x Clube Atlético Mineiro",
-        "comeco": "2026-09-09T22:00:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Draw",
-        "odd": 19.5,
-        "chanceImplicita": 0.05128205128205128,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Santos x Clube Atlético Mineiro",
-        "comeco": "2026-09-09T22:00:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Santos",
-        "odd": 15,
-        "chanceImplicita": 0.06666666666666667,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Santos x Clube Atlético Mineiro",
-        "comeco": "2026-09-09T22:00:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Santos",
-        "odd": 15,
-        "chanceImplicita": 0.06666666666666667,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Club Cienciano x Montevideo City Torque",
-        "comeco": "2026-09-11T00:30:00Z",
-        "casa": "Smarkets",
-        "mercado": "h2h_lay",
-        "selecao": "Montevideo City Torque",
-        "odd": 8,
-        "chanceImplicita": 0.125,
-        "chanceBaixa": true
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-04T18:51:01.893Z",
     "sportKey": "soccer_conmebol_copa_sudamericana",
     "jogos": 4,
@@ -10153,6 +10096,63 @@
   },
   {
     "timestamp": "2026-10-20T03:45:15.467Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 2,
+    "topMomentos": [
+      {
+        "jogo": "Montevideo City Torque x Clube Atlético Mineiro",
+        "comeco": "2026-10-21T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Draw",
+        "odd": 3.75,
+        "chanceImplicita": 0.26666666666666666,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Montevideo City Torque x Clube Atlético Mineiro",
+        "comeco": "2026-10-21T22:00:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Draw",
+        "odd": 3.75,
+        "chanceImplicita": 0.26666666666666666,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Montevideo City Torque x Clube Atlético Mineiro",
+        "comeco": "2026-10-21T22:00:00Z",
+        "casa": "Smarkets",
+        "mercado": "h2h_lay",
+        "selecao": "Draw",
+        "odd": 3.75,
+        "chanceImplicita": 0.26666666666666666,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Montevideo City Torque x Clube Atlético Mineiro",
+        "comeco": "2026-10-21T22:00:00Z",
+        "casa": "1xBet",
+        "mercado": "h2h",
+        "selecao": "Draw",
+        "odd": 3.41,
+        "chanceImplicita": 0.29325513196480935,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Montevideo City Torque x Clube Atlético Mineiro",
+        "comeco": "2026-10-21T22:00:00Z",
+        "casa": "Casumo",
+        "mercado": "h2h",
+        "selecao": "Draw",
+        "odd": 3.4,
+        "chanceImplicita": 0.29411764705882354,
+        "chanceBaixa": true
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-20T09:12:01.372Z",
     "sportKey": "soccer_conmebol_copa_sudamericana",
     "jogos": 2,
     "topMomentos": [
