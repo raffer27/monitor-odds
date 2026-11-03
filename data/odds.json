@@ -1,62 +1,5 @@
 [
   {
-    "timestamp": "2026-09-15T22:44:03.420Z",
-    "sportKey": "soccer_conmebol_copa_sudamericana",
-    "jogos": 4,
-    "topMomentos": [
-      {
-        "jogo": "Vasco da Gama x Independiente Santa Fe",
-        "comeco": "2026-09-15T22:00:00Z",
-        "casa": "Smarkets",
-        "mercado": "h2h_lay",
-        "selecao": "Independiente Santa Fe",
-        "odd": 42.02,
-        "chanceImplicita": 0.023798191337458353,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Vasco da Gama x Independiente Santa Fe",
-        "comeco": "2026-09-15T22:00:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Independiente Santa Fe",
-        "odd": 42,
-        "chanceImplicita": 0.023809523809523808,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Vasco da Gama x Independiente Santa Fe",
-        "comeco": "2026-09-15T22:00:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h_lay",
-        "selecao": "Independiente Santa Fe",
-        "odd": 38,
-        "chanceImplicita": 0.02631578947368421,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Vasco da Gama x Independiente Santa Fe",
-        "comeco": "2026-09-15T22:00:00Z",
-        "casa": "Betfair",
-        "mercado": "h2h",
-        "selecao": "Independiente Santa Fe",
-        "odd": 36,
-        "chanceImplicita": 0.027777777777777776,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Vasco da Gama x Independiente Santa Fe",
-        "comeco": "2026-09-15T22:00:00Z",
-        "casa": "Smarkets",
-        "mercado": "h2h",
-        "selecao": "Independiente Santa Fe",
-        "odd": 34.01,
-        "chanceImplicita": 0.02940311673037342,
-        "chanceBaixa": true
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-16T03:41:58.502Z",
     "sportKey": "soccer_conmebol_copa_sudamericana",
     "jogos": 2,
@@ -10192,6 +10135,63 @@
         "casa": "Betfair",
         "mercado": "h2h_lay",
         "selecao": "Clube Atlético Mineiro",
+        "odd": 3.65,
+        "chanceImplicita": 0.273972602739726,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Clube Atlético Mineiro x Boca Juniors",
+        "comeco": "2026-11-21T22:30:00Z",
+        "casa": "1xBet",
+        "mercado": "h2h",
+        "selecao": "Draw",
+        "odd": 3.24,
+        "chanceImplicita": 0.30864197530864196,
+        "chanceBaixa": true
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-03T02:01:33.815Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 1,
+    "topMomentos": [
+      {
+        "jogo": "Clube Atlético Mineiro x Boca Juniors",
+        "comeco": "2026-11-21T22:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Clube Atlético Mineiro",
+        "odd": 4,
+        "chanceImplicita": 0.25,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Clube Atlético Mineiro x Boca Juniors",
+        "comeco": "2026-11-21T22:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Clube Atlético Mineiro",
+        "odd": 4,
+        "chanceImplicita": 0.25,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Clube Atlético Mineiro x Boca Juniors",
+        "comeco": "2026-11-21T22:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Draw",
+        "odd": 3.65,
+        "chanceImplicita": 0.273972602739726,
+        "chanceBaixa": true
+      },
+      {
+        "jogo": "Clube Atlético Mineiro x Boca Juniors",
+        "comeco": "2026-11-21T22:30:00Z",
+        "casa": "Betfair",
+        "mercado": "h2h_lay",
+        "selecao": "Draw",
         "odd": 3.65,
         "chanceImplicita": 0.273972602739726,
         "chanceBaixa": true
