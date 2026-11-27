@@ -1,62 +1,5 @@
 [
   {
-    "timestamp": "2026-10-03T04:08:25.463Z",
-    "sportKey": "soccer_conmebol_copa_sudamericana",
-    "jogos": 2,
-    "topMomentos": [
-      {
-        "jogo": "Clube Atlético Mineiro x Montevideo City Torque",
-        "comeco": "2026-10-14T22:00:00Z",
-        "casa": "Smarkets",
-        "mercado": "h2h_lay",
-        "selecao": "Montevideo City Torque",
-        "odd": 14.01,
-        "chanceImplicita": 0.07137758743754462,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Clube Atlético Mineiro x Montevideo City Torque",
-        "comeco": "2026-10-14T22:00:00Z",
-        "casa": "Coolbet",
-        "mercado": "h2h",
-        "selecao": "Montevideo City Torque",
-        "odd": 9,
-        "chanceImplicita": 0.1111111111111111,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Clube Atlético Mineiro x Montevideo City Torque",
-        "comeco": "2026-10-14T22:00:00Z",
-        "casa": "1xBet",
-        "mercado": "h2h",
-        "selecao": "Montevideo City Torque",
-        "odd": 8.1,
-        "chanceImplicita": 0.1234567901234568,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Clube Atlético Mineiro x Montevideo City Torque",
-        "comeco": "2026-10-14T22:00:00Z",
-        "casa": "Unibet (NL)",
-        "mercado": "h2h",
-        "selecao": "Montevideo City Torque",
-        "odd": 8,
-        "chanceImplicita": 0.125,
-        "chanceBaixa": true
-      },
-      {
-        "jogo": "Clube Atlético Mineiro x Montevideo City Torque",
-        "comeco": "2026-10-14T22:00:00Z",
-        "casa": "Casumo",
-        "mercado": "h2h",
-        "selecao": "Montevideo City Torque",
-        "odd": 8,
-        "chanceImplicita": 0.125,
-        "chanceBaixa": true
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-03T13:05:54.060Z",
     "sportKey": "soccer_conmebol_copa_sudamericana",
     "jogos": 2,
@@ -9643,6 +9586,12 @@
   },
   {
     "timestamp": "2026-11-26T20:59:49.797Z",
+    "sportKey": "soccer_conmebol_copa_sudamericana",
+    "jogos": 0,
+    "topMomentos": []
+  },
+  {
+    "timestamp": "2026-11-27T07:04:00.885Z",
     "sportKey": "soccer_conmebol_copa_sudamericana",
     "jogos": 0,
     "topMomentos": []
